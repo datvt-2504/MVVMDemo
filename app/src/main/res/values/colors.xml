@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="color_silver">#c5c5c5</color>
+    <color name="color_river_bed">#47525E</color>
+    <color name="color_mine_shaft">#222222</color>
+    <color name="color_mountain_meadow">#23bb72</color>
+    <color name="color_gray">#8d8d8d</color>
+    <color name="color_regent_gray">#8190A5</color>
+    <color name="color_alto">#DFDFDF</color>
+    <color name="color_semi_transparent">#60000000</color>
+
+</resources>
